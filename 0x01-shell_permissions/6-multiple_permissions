@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x sudo chgrp chown r-- hello
+rwx rwx r-- hello
