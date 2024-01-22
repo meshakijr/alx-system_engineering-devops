@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod u+x chgrp chown r-- hello
