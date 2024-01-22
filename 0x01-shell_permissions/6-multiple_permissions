@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x chgrp chown r-- hello
+chmod u+x sudo chgrp chown r-- hello
